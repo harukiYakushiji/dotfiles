@@ -35,3 +35,5 @@ augroup vimrc
     autocmd FileType vim setlocal keywordprg=:help
 augroup END
 
+nnoremap <Leader>ev :e ~/dotfiles/.vimrc<CR>
+nnoremap <Leader>cv :e ~/dotfiles/cheatsheets/vim.txt<CR>
