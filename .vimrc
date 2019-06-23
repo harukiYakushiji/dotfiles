@@ -46,3 +46,4 @@ nnoremap <Leader>ev :e ~/dotfiles/.vimrc<CR>
 nnoremap <Leader>cv :e ~/dotfiles/cheatsheets/vim.txt<CR>
 nnoremap q: <Nop>
 nnoremap <Leader>m :MRU<CR>
+nnoremap <C-q> :q<CR>
