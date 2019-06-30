@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/lucius.vim"]
 	path = .vim/bundle/lucius.vim
 	url = https://github.com/jonathanfilip/vim-lucius.git
+[submodule ".vim/bundle/vim-easymotion"]
+	path = .vim/bundle/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
